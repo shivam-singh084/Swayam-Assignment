@@ -30,6 +30,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam-singh084/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/shivam-singh084/leetcode/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/shivam-singh084/leetcode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/shivam-singh084/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shivam-singh084/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam-singh084/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivam-singh084/leetcode/tree/master/0217-contains-duplicate) |
@@ -185,6 +186,7 @@
 | [0125-valid-palindrome](https://github.com/shivam-singh084/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shivam-singh084/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivam-singh084/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/shivam-singh084/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/shivam-singh084/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shivam-singh084/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivam-singh084/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -281,6 +283,7 @@
 | [0066-plus-one](https://github.com/shivam-singh084/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shivam-singh084/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/shivam-singh084/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/shivam-singh084/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shivam-singh084/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
