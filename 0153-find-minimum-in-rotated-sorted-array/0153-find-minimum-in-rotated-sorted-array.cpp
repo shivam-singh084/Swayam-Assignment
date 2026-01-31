@@ -4,8 +4,9 @@ public:
         int st = 0; 
         int min = INT_MAX;
         int end = nums.size()-1;
+        int mid = st + (end-st)/2;
         while(st < end){
-            int mid = st + (end-st)/2;
+            mid = st + (end-st)/2;
 
             if(nums[mid] > nums[end]){
                 st = mid + 1;
