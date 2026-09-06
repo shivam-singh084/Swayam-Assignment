@@ -239,6 +239,7 @@
 | [0070-climbing-stairs](https://github.com/shivam-singh084/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shivam-singh084/leetcode/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/shivam-singh084/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/shivam-singh084/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam-singh084/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -384,6 +385,7 @@
 | [0058-length-of-last-word](https://github.com/shivam-singh084/leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/shivam-singh084/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/shivam-singh084/leetcode/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/shivam-singh084/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivam-singh084/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shivam-singh084/leetcode/tree/master/0205-isomorphic-strings) |
